@@ -1,4 +1,4 @@
-# Data-Structures-Java-Fundamentals-Advanced
+# Data-Structures-Java
 
 Data Structures Fundamentals
 Курсът по структури от данни запознава участниците в него с най-използваните структури данни в програмирането чрез поставяне на солидни основи,
